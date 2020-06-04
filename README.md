@@ -1,13 +1,13 @@
 <p align="center">
   <img src="https://cdn.adguard.com/public/Adguard/Common/Logos/vpn_logo_a.svg" width="300px" alt="AdGuard VPN for Android" />
 </p>
-​
+
 <h3 align="center">Fast, flexible and reliable VPN solution for Android</h3>
 
 <p align="center">
   Your online safety and anonimity guaranteed by a trusted developer.
 </p>
-​
+
 <p align="center">
     <a href="https://adguard-vpn.com/">Website</a> |
     <a href="https://reddit.com/r/Adguard">Reddit</a> |
@@ -16,14 +16,12 @@
     <br /><br />
 </p>
 
-​
 > **Disclaimer**
 > * AdGuard VPN for Android is not an open source project. We use GitHub as an open bug tracker for users to see what developers are working on. However, we at AdGuard create [a lot of open source software](https://github.com/search?o=desc&q=topic%3Aopen-source+org%3AAdguardTeam+fork%3Atrue&s=stars&type=Repositories).
 > * Privacy policy: https://adguard-vpn.com/privacy.html
 
-​
 AdGuard VPN serves to protect your online privacy, encrypt your connection, hide your IP address and websites you visit from anyone (including your Internet provider) and to ensure anonymous browsing on the web. Cutting edge technologies and multiple customization options will help conceal your location and unblock geographically restricted websites or other content.
-​
+
 To get more information and to download AdGuard VPN for Android, visit our website [https://adguard-vpn.com/](https://adguard-vpn.com/).
 
 <image src="https://cdn.adguard.com/public/Adguard/screenshots/vpn-android/vpn1.png" width="250"> <image src="https://cdn.adguard.com/public/Adguard/screenshots/vpn-android/vpn2.png" width="250"> <image src="https://cdn.adguard.com/public/Adguard/screenshots/vpn-android/vpn3.png" width="250">
