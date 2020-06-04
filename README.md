@@ -32,4 +32,4 @@ To get more information and to download AdGuard VPN for Android, visit our websi
 
 We appreciate your feedback and always welcome both constructive critisism and new ideas.
 
-You can use GitHub to report a bug or to submit a feature request. To do so, go to [this page](https://github.com/AdguardTeam/AdguardVPNAndroid/issues), click the _New issue_ button and choose between creating a bug report or feature request.
+You can use GitHub to report a bug or to submit a feature request. To do so, go to [this page](https://github.com/AdguardTeam/AdguardVPNForAndroid/issues), click the _New issue_ button and choose between creating a bug report or feature request.
