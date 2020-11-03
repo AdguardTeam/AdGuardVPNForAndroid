@@ -5,7 +5,7 @@
 <h3 align="center">Fast, flexible and reliable VPN solution for Android</h3>
 
 <p align="center">
-  Your online safety and anonimity guaranteed by a trusted developer.
+  Your online safety and anonymity guaranteed by a trusted developer.
 </p>
 
 <p align="center">
