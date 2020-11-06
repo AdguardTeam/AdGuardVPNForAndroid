@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.adguard.com/public/Adguard/Common/Logos/vpn_logo_a.svg" width="300px" alt="AdGuard VPN for Android" />
+  <img src="https://user-images.githubusercontent.com/17472907/98364123-42c37180-2041-11eb-94cc-a890b5943a68.png" width="300px" alt="AdGuard VPN for Android" />
 </p>
 
 <h3 align="center">Fast, flexible and reliable VPN solution for Android</h3>
