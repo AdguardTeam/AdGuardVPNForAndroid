@@ -22,7 +22,7 @@
 > * AdGuard VPN for Android is not an open source project. We use GitHub as an open bug tracker for users to see what developers are working on. However, we at AdGuard create [a lot of open source software](https://github.com/search?o=desc&q=topic%3Aopen-source+org%3AAdguardTeam+fork%3Atrue&s=stars&type=Repositories).
 > * Privacy policy: https://adguard-vpn.com/privacy.html
 
-AdGuard VPN serves to protect your online privacy, encrypt your connection, hide your IP address and websites you visit from anyone (including your Internet provider) and to ensure anonymous browsing on the web. Cutting edge technologies and multiple customization options will help conceal your location and unblock geographically restricted websites or other content.
+AdGuard VPN serves to protect your online privacy, encrypt your connection, hide your IP address and websites you visit from anyone (including your ISP). Cutting-edge technologies and multiple customization options will help conceal your location and ensure anonymous browsing on the web.
 
 To get more information and to download AdGuard VPN for Android, visit our website [https://adguard-vpn.com/](https://adguard-vpn.com/).
 
