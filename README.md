@@ -14,6 +14,14 @@
     <a href="https://twitter.com/AdGuard">Twitter</a> |
     <a href="https://t.me/adguard_en">Telegram</a>
     <br /><br />
+    <a
+    </a>
+    <a href="https://github.com/AdguardTeam/AdGuardVPNForAndroid/releases">
+        <img src="https://img.shields.io/github/tag/AdguardTeam/AdGuardVPNForAndroid.svg?label=release" alt="Latest release" />
+    </a>
+    <a href="https://github.com/AdguardTeam/AdGuardVPNForAndroid/releases">
+        <img src="https://img.shields.io/github/tag-pre/AdguardTeam/AdGuardVPNForAndroid.svg?label=beta" alt="Beta version>" />
+    </a>
 </p>
 
 <image src="https://cdn.adguard.com/public/Adguard/screenshots/vpn-android/vpn1.png" width="250"> <image src="https://cdn.adguard.com/public/Adguard/screenshots/vpn-android/vpn2.png" width="250"> <image src="https://cdn.adguard.com/public/Adguard/screenshots/vpn-android/vpn3.png" width="250">
