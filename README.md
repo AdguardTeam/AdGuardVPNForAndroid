@@ -22,7 +22,7 @@
     </a>
 </p>
 
-<image src="https://cdn.adguard.com/public/Adguard/screenshots/vpn-android/vpn1.png" width="250"> <image src="https://cdn.adguard.com/public/Adguard/screenshots/vpn-android/vpn2.png" width="250"> <image src="https://cdn.adguard.com/public/Adguard/screenshots/vpn-android/vpn3.png" width="250">
+<image src="https://cdn.adguard.com/public/Adguard/screenshots/vpn-android/adguardvpn1.png" width="250"> <image src="https://cdn.adguard.com/public/Adguard/screenshots/vpn-android/adguardvpn2.png" width="250"> <image src="https://cdn.adguard.com/public/Adguard/screenshots/vpn-android/adguardvpn3.png" width="250">
 
 > **Disclaimer**
 > * AdGuard VPN for Android is not an open source project. We use GitHub as an open bug tracker for users to see what developers are working on. However, we at AdGuard create [a lot of open source software](https://github.com/search?o=desc&q=topic%3Aopen-source+org%3AAdguardTeam+fork%3Atrue&s=stars&type=Repositories).
