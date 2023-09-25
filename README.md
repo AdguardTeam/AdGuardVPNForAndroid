@@ -29,15 +29,15 @@
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/android/dark_home.png" width="250">
       <img src="https://cdn.adtidy.org/content/github/vpn/android/home.png" width="250">
-    </picture>
+   </picture>
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/android/dark_locations.png" width="250">
       <img src="https://cdn.adtidy.org/content/github/vpn/android/locations.png" width="250">
-    </picture>
+   </picture>
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/android/dark_exclusions.png" width="250">
       <img src="https://cdn.adtidy.org/content/github/vpn/android/exclusions.png" width="250">
-    </picture>
+   </picture>
 </p>
 
 
