@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/17472907/98364123-42c37180-2041-11eb-94cc-a890b5943a68.png" width="300px" alt="AdGuard VPN for Android" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adguard.com/public/Adguard/Common/Logos/vpn_logo_dark_a.svg" width="300px" alt="AdGuard VPN for Android" />
+      <img src="https://cdn.adguard.com/public/Adguard/Common/Logos/vpn_logo_a.svg" width="300px" alt="AdGuard VPN for AmdroidS" />
+    </picture>
 </p>
 
 <h3 align="center">Fast, flexible and reliable VPN solution for Android</h3>
@@ -22,7 +25,21 @@
     </a>
 </p>
 
-<image src="https://cdn.adguard.com/public/Adguard/screenshots/vpn-android/adguardvpn1.png" width="250"> <image src="https://cdn.adguard.com/public/Adguard/screenshots/vpn-android/adguardvpn2.png" width="250"> <image src="https://cdn.adguard.com/public/Adguard/screenshots/vpn-android/adguardvpn3.png" width="250">
+<p align="center">
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/android/dark_home.png" width="250">
+      <img src="https://cdn.adtidy.org/content/github/vpn/android/home.png" width="250">
+    </picture>
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/android/dark_locations.png" width="250">
+      <img src="https://cdn.adtidy.org/content/github/vpn/android/locations.png" width="250">
+    </picture>
+   <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/android/dark_exclusions.png" width="250">
+      <img src="https://cdn.adtidy.org/content/github/vpn/android/exclusions.png" width="250">
+    </picture>
+</p>
+
 
 > **Disclaimer**
 > * AdGuard VPN for Android is not an open source project. We use GitHub as an open bug tracker for users to see what developers are working on. However, we at AdGuard create [a lot of open source software](https://github.com/search?o=desc&q=topic%3Aopen-source+org%3AAdguardTeam+fork%3Atrue&s=stars&type=Repositories).
