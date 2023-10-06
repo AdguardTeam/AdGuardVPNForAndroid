@@ -1,7 +1,8 @@
+&nbsp;
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adguard.com/public/Adguard/Common/Logos/vpn_logo_dark_a.svg" width="300px" alt="AdGuard VPN for Android" />
-    <img src="https://cdn.adguard.com/public/Adguard/Common/Logos/vpn_logo_a.svg" width="300px" alt="AdGuard VPN for AmdroidS" />
+    <img src="https://cdn.adguard.com/public/Adguard/Common/Logos/vpn_logo_a.svg" width="300px" alt="AdGuard VPN for Android" />
   </picture>
 </p>
 
