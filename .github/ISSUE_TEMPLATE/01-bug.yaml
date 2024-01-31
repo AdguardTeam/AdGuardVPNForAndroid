@@ -1,7 +1,5 @@
----
-
 name: 🐞 Bug report
-description: Create a bug report to help us improve AdGuard VPN for Android.
+description: If you found something that we should know about
 labels: [Bug]
 body:
   - type: markdown
@@ -11,54 +9,101 @@ body:
   - type: checkboxes
     attributes:
       label: Please answer the following questions for yourself before submitting an issue.
-      description:
       options:
-        - label: I am running the latest version
-        - label: I checked the documentation and found no answer
+        - label: I checked the [knowledge base](https://adguard-vpn.com/kb/) and found no answer
+          required: true
         - label: I checked to make sure that this issue has not already been filed
-    validations:
-      required: true
+          required: true
+
+
   - type: input
     id: app_version
     attributes:
       label: AdGuard VPN version
       description: What version of our application are you running?
-      placeholder: For example, 2.2.3
+      placeholder: For example, 2.7
     validations:
       required: true
+
   - type: dropdown
     id: tunnel_mode
     attributes:
       label: Operating mode
-      description:
       multiple: false
       options:
         - VPN
         - SOCKS5
         - Integration with AdGuard
+    validations:
+      required: true
+
+  - type: dropdown
+    id: dns_protection
+    attributes:
+      label: Which DNS server do you use?
+      multiple: false
+      options:
+        - Default
+        - AdGuard DNS
+        - AdGuard DNS Family Protection
+        - AdGuard DNS Non-filtering
+        - Google DNS
+        - Cloudflare DNS
+        - Cloudflare for Families - Malware and Adult Content
+        - Cloudflare for Families - Malware Blocking
+        - Open DNS
+        - Open DNS with Family Shield
+        - Quad9
+        - Custom DNS
+    validations:
+      required: false
+      
+  - type: dropdown
+    id: dns_protocol
+    attributes:
+      label: DNS protocol
+      multiple: false
+      options:
+        - Regular
+        - DNSCrypt
+        - DNS-over-HTTPS
+        - DNS-over-TLS
+        - DNS-over-QUIC
+    validations:
+      required: false
+      
+  - type: textarea
+    id: custom_dns
+    attributes:
+      label: Custom DNS
+      description: Please provide a link to the custom DNS you use
+      placeholder: If you have enabled DNS from the pre-defined list, skip this
+    validations:
+      required: false
+
   - type: textarea
     attributes:
       label: Environment
       description: |
         Examples:
-          - **OS**: Android 11
-          - **Device**: Huawei
-          - **Firmware**: INE-L21
+          - **OS**: Android 14
+          - **Device**: Huawei P50 Pro 
       value: |
           - OS:
           - Device:
-          - Firmware:
       render: markdown
     validations:
       required: true
+
   - type: checkboxes
     attributes:
       label: Root access
       description: Do you have root privileges?
       options:
-        - label: Yes, I have it.
+        - label: yes, I have it
     validations:
       required: false
+
   - type: textarea
     id: what-happened
     attributes:
@@ -72,14 +117,15 @@ body:
         3.
     validations:
       required: true
+
   - type: textarea
     id: how_it_should_be
     attributes:
       label: Expected Behavior
-      description:
       placeholder: A clear and concise description of what you expected to happen.
     validations:
       required: false
+
   - type: textarea
     id: screens
     attributes:
@@ -90,18 +136,18 @@ body:
         Use `<details> </details>` tag to hide screenshots under the spoiler.
       placeholder: If applicable add screenshots explaining your problem.
       value: |
-          <details><summary>Screenshot 1:</summary>
+          <details><summary>Screenshot 1</summary>
 
           <!-- paste screenshot here -->
 
           </details>
     validations:
       required: false
+
   - type: textarea
     id: additional
     attributes:
       label: Additional Information
-      description:
       placeholder: Add any other context about the problem here.
     validations:
       required: false
