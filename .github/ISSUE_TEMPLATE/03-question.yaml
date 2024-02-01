@@ -11,7 +11,7 @@ body:
       label: Please answer the following questions for yourself before submitting a question.
       options:
         - label: I am running the latest version
-        - label: I checked the [knowledge base](https://adguard.com/kb/) and found no answer
+        - label: I checked the [knowledge base](https://adguard-vpn.com/kb/) and found no answer
           required: true
         - label: I checked to make sure that this issue has not already been filed
           required: true
