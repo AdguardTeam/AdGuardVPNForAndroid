@@ -159,3 +159,8 @@ body:
       placeholder: Add any other context about the problem here.
     validations:
       required: false
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        Upvote [important issues](https://github.com/AdguardTeam/AdGuardVPNForAndroid/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc+) with a :+1:
