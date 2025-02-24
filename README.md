@@ -21,8 +21,8 @@
     <a href="https://github.com/AdguardTeam/AdguardVPNForAndroid/issues?q=label%3ABug%20state%3Aopen">
         <img src="https://img.shields.io/github/issues-search/AdguardTeam/AdguardVPNForAndroid?color=orangered&label=%F0%9F%90%9B%20Open%20bugs&query=label%3ABug%20state%3Aopen" />
     </a>
-    <a href="https://github.com/AdguardTeam/AdguardVPNForAndroid/issues?q=sort%3Acreated-desc%20label%3ABug%20label%3A%22Status%3A%20Closed%22%2C%22Status%3A%20Done%22%2C%22Status%3A%20Resolved%22%20-label%3ADuplicate%20label%3A%22Resolution%3A%20Done%22%2C%22Resolution%3A%20Fixed%22%20state%3Aclosed%20">
-        <img src="https://img.shields.io/github/issues-search/AdguardTeam/AdguardVPNForAndroid?color=goldenrod&label=Resolved&query=sort%3Acreated-desc%20label%3ABug%20label%3A%22Status%3A%20Closed%22%2C%22Status%3A%20Done%22%2C%22Status%3A%20Resolved%22%20-label%3ADuplicate%20label%3A%22Resolution%3A%20Done%22%2C%22Resolution%3A%20Fixed%22%20state%3Aclosed%20" />
+    <a href="https://github.com/AdguardTeam/AdguardVPNForAndroid/issues?q=sort%3Acreated-desc%20label%3ABug%20label%3A%22Status%3A%20Closed%22%2C%22Status%3A%20Resolved%22%20-label%3ADuplicate%20label%3A%22Resolution%3A%20Done%22%2C%22Resolution%3A%20Fixed%22%20state%3Aclosed%20">
+        <img src="https://img.shields.io/github/issues-search/AdguardTeam/AdguardVPNForAndroid?color=goldenrod&label=Resolved&query=sort%3Acreated-desc%20label%3ABug%20label%3A%22Status%3A%20Closed%22%2C%22Status%3A%20Resolved%22%20-label%3ADuplicate%20label%3A%22Resolution%3A%20Done%22%2C%22Resolution%3A%20Fixed%22%20state%3Aclosed%20" />
     </a>
     <br />
     <a href="https://github.com/AdguardTeam/AdguardVPNForAndroid/issues?q=label%3A%22Feature%20request%22%20state%3Aopen+sort%3Areactions-%2B1-desc">
