@@ -18,14 +18,49 @@
     <a href="https://twitter.com/AdGuard">Twitter</a> |
     <a href="https://t.me/adguard_en">Telegram</a>
     <br /><br />
+    <a href="https://github.com/AdguardTeam/AdguardVPNForAndroid/issues?q=sort%3Acreated-desc%20label%3ABug%20is%3Aopen%20-label%3A%22Status%3A%20Closed%22%2C%22Status%3A%20Resolved%22%20">
+        <img src="https://img.shields.io/github/issues-search/AdguardTeam/AdguardVPNForAndroid?color=orangered&label=%F0%9F%90%9B%20Open%20bugs&query=sort%3Acreated-desc%20label%3ABug%20is%3Aopen%20-label%3A%22Status%3A%20Closed%22%2C%22Status%3A%20Resolved%22%20" />
+    </a>
+    <a href="https://github.com/AdguardTeam/AdguardVPNForAndroid/issues?q=sort%3Acreated-desc%20label%3ABug%20label%3A%22Status%3A%20Resolved%22%2C%22Status%3A%20Closed%22%20-label%3A%22Resolution%3A%20Won%27t%20Do%22%2C%22Resolution%3A%20Won%27t%20Fix%22%2C%22Resolution%3A%20Duplicate%22%2C%22Resolution%3A%20Incomplete%22%2C%22Resolution%3A%20Cannot%20Reproduce%22%20">
+        <img src="https://img.shields.io/github/issues-search/AdguardTeam/AdguardVPNForAndroid?color=goldenrod&label=Resolved&query=sort%3Acreated-desc%20label%3ABug%20label%3A%22Status%3A%20Resolved%22%2C%22Status%3A%20Closed%22%20-label%3A%22Resolution%3A%20Won%27t%20Do%22%2C%22Resolution%3A%20Won%27t%20Fix%22%2C%22Resolution%3A%20Duplicate%22%2C%22Resolution%3A%20Incomplete%22%2C%22Resolution%3A%20Cannot%20Reproduce%22%20" />
+    </a>
+    <br />
+    <a href="https://github.com/AdguardTeam/AdguardVPNForAndroid/issues?q=label%3A%22Feature%20request%22%2CEnhancement%20state%3Aopen%20sort%3Areactions-%2B1-desc%20-label%3A%22Status%3A%20Closed%22%2C%22Status%3A%20Resolved%22%2Cautomatic%20">
+        <img src="https://img.shields.io/github/issues-search/AdguardTeam/AdguardVPNForAndroid?color=seagreen&label=%F0%9F%9A%80%20Open%20feature%20requests&query=label%3A%22Feature%20request%22%2CEnhancement%20state%3Aopen%20sort%3Areactions-%2B1-desc%20-label%3A%22Status%3A%20Closed%22%2C%22Status%3A%20Resolved%22%2Cautomatic%20" />
+    </a>
+    <a href="https://github.com/AdguardTeam/AdguardVPNForAndroid/issues?q=sort%3Areactions-%2B1-desc%20label%3A%22Feature%20request%22%2CEnhancement%20label%3A%22Status%3A%20Resolved%22%2C%22Status%3A%20Closed%22%20-label%3A%22Resolution%3A%20Won%27t%20Do%22%2C%22Resolution%3A%20Won%27t%20Fix%22%2C%22Resolution%3A%20Duplicate%22%2C%22Resolution%3A%20Incomplete%22%2C%22Resolution%3A%20Cannot%20Reproduce%22%2Cautomatic%20">
+        <img src="https://img.shields.io/github/issues-search/AdguardTeam/AdguardVPNForAndroid?color=%2358A459&label=Implemented&query=sort%3Areactions-%2B1-desc%20label%3A%22Feature%20request%22%2CEnhancement%20label%3A%22Status%3A%20Resolved%22%2C%22Status%3A%20Closed%22%20-label%3A%22Resolution%3A%20Won%27t%20Do%22%2C%22Resolution%3A%20Won%27t%20Fix%22%2C%22Resolution%3A%20Duplicate%22%2C%22Resolution%3A%20Incomplete%22%2C%22Resolution%3A%20Cannot%20Reproduce%22%2Cautomatic%20" />
+    </a>
+    <br />
     <a href="https://github.com/AdguardTeam/AdGuardVPNForAndroid/releases">
-        <img src="https://img.shields.io/github/tag/AdguardTeam/AdGuardVPNForAndroid.svg?label=release" alt="Latest release" />
+        <img src="https://img.shields.io/github/tag/AdguardTeam/AdGuardVPNForAndroid.svg?color=blue&label=release" alt="Latest release" />
     </a>
     <a href="https://github.com/AdguardTeam/AdGuardVPNForAndroid/releases">
-        <img src="https://img.shields.io/github/tag-pre/AdguardTeam/AdGuardVPNForAndroid.svg?label=beta" alt="Beta version>" />
+        <img src="https://img.shields.io/github/tag-pre/AdguardTeam/AdGuardVPNForAndroid.svg?color=dodgerblue&label=beta" alt="Beta version>" />
     </a>
 </p>
 
+
+&nbsp;
+<p align="center">
+  <a href="https://agrd.io/github_android_vpn">
+    <img src="https://cdn.adtidy.org/content/github/badges/GooglePlay.png" alt="Get it on Google Play" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://agrd.io/github_huawei_vpn">
+    <img src="https://cdn.adtidy.org/content/github/badges/AppGalleryStore.png" alt="Explore it on AppGallery" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://agrd.io/github_xiaomi_vpn">
+    <img src="https://cdn.adtidy.org/content/github/badges/GetAppsStore.png" alt="Get it on Mi App Mall" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://agrd.io/github_samsung_vpn">
+    <img src="https://cdn.adtidy.org/content/github/badges/GalaxyStore.png" alt="Available on Galaxy Store" height="40" />
+  </a>
+</p>
+
+&nbsp;
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/android/dark_home.png" width="250">
