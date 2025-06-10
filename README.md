@@ -67,8 +67,8 @@
     <img src="https://cdn.adtidy.org/content/github/vpn/android/home.png" width="250">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/android/dark_locations.png" width="250">
-    <img src="https://cdn.adtidy.org/content/github/vpn/android/locations.png" width="250">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/android/locations_dark.png" width="250">
+    <img src="https://cdn.adtidy.org/content/github/vpn/android/locations_light.png" width="250">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/android/dark_exclusions.png" width="250">
