@@ -63,16 +63,16 @@
 &nbsp;
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/android/dark_home.png" width="250">
-    <img src="https://cdn.adtidy.org/content/github/vpn/android/home.png" width="250">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/android/home_dark1.png" width="250">
+    <img src="https://cdn.adtidy.org/content/github/vpn/android/home_light1.png" width="250">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/android/dark_locations.png" width="250">
-    <img src="https://cdn.adtidy.org/content/github/vpn/android/locations.png" width="250">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/android/locations_dark1.png" width="250">
+    <img src="https://cdn.adtidy.org/content/github/vpn/android/locations_light1.png" width="250">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/android/dark_exclusions.png" width="250">
-    <img src="https://cdn.adtidy.org/content/github/vpn/android/exclusions.png" width="250">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.adtidy.org/content/github/vpn/android/exclusions_dark1.png" width="250">
+    <img src="https://cdn.adtidy.org/content/github/vpn/android/exclusions_light1.png" width="250">
   </picture>
 </p>
 
